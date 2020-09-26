@@ -2,9 +2,10 @@
 
 body { 
     color: black;
-    background-color: beige;
+    background-color: plum;
     font: Cabin Sketch;
     text-align: center;
+    border: 3px dotted #ffffff;
 }
 
 h1 {
@@ -12,6 +13,7 @@ h1 {
     font-size: 48px;
     border: solid 2px #8e44ad;
     display: flex;
+    justify-content: center;
     }
 }
 
