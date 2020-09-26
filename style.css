@@ -1,0 +1,25 @@
+
+
+body { 
+    color: black;
+    background-color: beige;
+    font: Cabin Sketch;
+    text-align: center;
+}
+
+h1 {
+    font-weight: bold;
+    font-size: 48px;
+    border: solid 2px #8e44ad;
+    display: flex;
+    }
+}
+
+h2 {
+    font-size: 36px;
+    font-color: #d35400;
+}
+
+p {
+    font-size: 16px;
+}
